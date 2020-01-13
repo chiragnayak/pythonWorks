@@ -30,7 +30,8 @@ The principal built-in types are:
 			range : an immutable sequence of numbers and is commonly used for looping a specific number of times in for loops.
 		Another way:
 			Immutable Sequence Types : support hash() built-in, ex : tuple
-			Mutable Sequence Types
+			Mutable Sequence Types : list
+	
 	mappings, 
 	classes, 
 	instances

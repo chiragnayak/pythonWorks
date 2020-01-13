@@ -1,3 +1,4 @@
+crockery = {1:"plate", 2:"spoon"}
 dishes = {'eggs': 2, 'sausage': 1, 'bacon': 1, 'spam': 500}
 keys = dishes.keys()
 values = dishes.values()
@@ -8,6 +9,7 @@ for val in values:
 	n += val
 	print(n)
 
+print(crockery.keys());
 print (dishes.keys())
 print (dishes.values())
 print (list(keys))
